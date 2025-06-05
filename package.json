@@ -1,1 +1,15 @@
-{\n  "name": "racq-footer-component",\n  "version": "1.0.0",\n  "description": "RACQ branded footer component for WeWeb",\n  "main": "src/wwElement.vue",\n  "scripts": {\n    "dev": "weweb dev",\n    "build": "weweb build"\n  },\n  "dependencies": {\n    "@weweb/cli": "latest"\n  },\n  "devDependencies": {},\n  "license": "MIT"\n}
+{
+  "name": "racq-footer-component",
+  "version": "1.0.0",
+  "description": "RACQ branded footer component for WeWeb",
+  "main": "wwElement.vue",
+  "scripts": {
+    "dev": "weweb dev",
+    "build": "weweb build"
+  },
+  "dependencies": {
+    "@weweb/cli": "latest"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
